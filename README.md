@@ -1,6 +1,5 @@
 [![OpenSSF
-Scorecard](https://api.securityscorecards.dev/projects/github.com/LikeFirstMeet/guac-data/badge)]
-(https://api.securityscorecards.dev/projects/github.com/LikeFirstMeet/guac-data)
+Scorecard](https://api.securityscorecards.dev/projects/github.com/LikeFirstMeet/guac-data/badge)](https://api.securityscorecards.dev/projects/github.com/LikeFirstMeet/guac-data)
 
 # GUAC datasets
 
