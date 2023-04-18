@@ -1,3 +1,6 @@
+[![OpenSSF
+Scorecard](https://api.securityscorecards.dev/projects/github.com/LikeFirstMeet/OpenHarmony/badge)]
+
 # GUAC datasets
 
 These folders contain some sample data for ingestion into GUAC
